@@ -12,8 +12,8 @@
     "version": "2.6.1",
     "compatibility": {
         "minimum": 11,
-        "verified": "11.298",
-        "maximum": 11
+        "verified": "12.331",
+        "maximum": 12
     },
     "esmodules": ["./compendium-folders.js"],
     "languages": [
